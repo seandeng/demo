@@ -1,30 +1,25 @@
 {
     "tasks":
-    {
-        "result": true,
-        "code": "0",
-        "data":
-        [
-            {
-                "taskId": "CountryRoad_Mix_SGH73874_73288_Receiving",
-                "profileCode": "",
-                "scanType": ""
-            },
-            {
-                "taskId": "CountryRoad_Mix_SGH10000_33288_Receiving",
-                "profileCode": "",
-                "scanType": ""
-            },
-            {
-                "taskId": "Nike_Mix_SGH73874_23288_Receiving",
-                "profileCode": "",
-                "scanType": ""
-            },
-            {
-                "taskId": "Nike_Mix_SGH10000_13288_Receiving",
-                "profileCode": "",
-                "scanType": ""
-            }
-        ]
-    }
+    [
+        {
+            "taskId": "CountryRoad_Mix_SGH73874_73288_Receiving",
+            "profileCode": "",
+            "scanType": ""
+        },
+        {
+            "taskId": "CountryRoad_Mix_SGH10000_33288_Receiving",
+            "profileCode": "",
+            "scanType": ""
+        },
+        {
+            "taskId": "Nike_Mix_SGH73874_23288_Receiving",
+            "profileCode": "",
+            "scanType": ""
+        },
+        {
+            "taskId": "Nike_Mix_SGH10000_13288_Receiving",
+            "profileCode": "",
+            "scanType": ""
+        }
+    ]
 }
